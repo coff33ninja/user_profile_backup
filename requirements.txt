@@ -1,0 +1,8 @@
+# No external dependencies required for basic functionality
+# The application uses only standard library modules:
+# - tkinter (included with Python)
+# - subprocess
+# - os
+# - datetime
+# - threading
+# - time
